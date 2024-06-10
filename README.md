@@ -1,5 +1,6 @@
+# Manera de usar 
+**`Ejecutar App.py`
 ---
-
 # Desglose de Sintaxis y Componentes 
 
 Claro, desglosar la sintaxis de un lenguaje de programación es fundamental para entender cómo funciona y cómo usarlo eficazmente. Vamos a revisar el ejemplo que has proporcionado y desglosar cada componente y función del lenguaje paso a paso.
